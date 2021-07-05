@@ -1,0 +1,10 @@
+{
+    "ads": [
+        {
+            "name": "Assgard",
+            "redirect": "https://www.assgardtoken.com",
+            "smallImageUrl": “https://link-to-the-small-image.jpg”,
+            "bigImageUrl": “https://link-to-the-BIG-image.jpg”
+        }
+]
+}
